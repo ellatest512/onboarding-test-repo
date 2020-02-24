@@ -4,3 +4,5 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/ellatest512/onboarding-test-repo.git
 git push -u origin master
+
+Adding a line of code
